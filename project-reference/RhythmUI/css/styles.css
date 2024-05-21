@@ -1,0 +1,47 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .navbar-brand i {
+    color: #1db954;
+  }
+  
+  h2 {
+    color: #1db954;
+  }
+  
+  .card {
+    background-color: #1e1e1e;
+    border: none;
+  }
+  
+  .song-card .card-body {
+    padding: 1.5rem;
+  }
+  
+  .table-dark {
+    background-color: #333;
+  }
+  
+  .table-dark th, .table-dark td {
+    border: 1px solid #444;
+  }
+  
+  .progress-bar {
+    background-color: #1db954;
+  }
+  
+  .btn-primary, .btn-danger {
+    background-color: #1db954;
+    border: none;
+  }
+  
+  .btn-primary:hover, .btn-danger:hover {
+    background-color: #14833b;
+  }
+  

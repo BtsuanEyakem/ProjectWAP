@@ -1,0 +1,25 @@
+
+# POST http://localhost:4000/user
+# Content-Type: application/json
+
+{
+    "username": "anoj",
+    "password": "anoj123"
+}
+
+###
+# GET http://localhost:4000/user
+
+##
+GET http://localhost:4000/playlists/anoj
+
+# ##
+# POST http://localhost:4000/playlists
+# Content-Type: application/json
+
+# {
+#     "songId":1,
+#     "username":"anoj"
+# }
+
+# DELETE  http://localhost:4000/playlists/anoj/2
